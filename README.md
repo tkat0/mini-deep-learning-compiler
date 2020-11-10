@@ -1,2 +1,2 @@
 # mini-deep-learning-compiler
-Toy project of Deep Learning Compiler
+Rust implementation of Toy Deep Learning Compiler
